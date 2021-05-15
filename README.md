@@ -1,5 +1,5 @@
 ## Model_Interpretation
 
 #### Contents
-- Ridge Regression
+- Regularized Regression
 - Understanding of Bias-Variance Tradeoff
