@@ -1,4 +1,4 @@
-# Model_Interpretation
+# Model Interpretation
 
 #### Contents
 - Regularized Regression
